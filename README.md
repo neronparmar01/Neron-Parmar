@@ -1,6 +1,8 @@
-<h2 align="left">Hi 👋! My name is Neron Parmar and I have done Computer Programming 
- from Seneca Polytechnic. My major interests are Data Analytics, Data Visulization and Programming. I am actively seeking opportunities to contribute and grow in the world of technology.
+<h2 align="left"> About Me...!
 </h2>
+
+Hi 👋! My name is Neron Parmar and I have done Computer Programming 
+ from Seneca Polytechnic. My major interests are Data Analytics, Data Visulization and Programming. I am actively seeking opportunities to contribute and grow in the world of technology.
 
 ###
 
