@@ -1,13 +1,33 @@
 <h2 align="left"> About Me...!
 </h2>
 
-Hi 👋! My name is Neron Parmar and I have done Computer Programming 
- from Seneca Polytechnic. I have equipped myself with major programming laguages such as C, C++, MySQL, SQL, NoSQL, JavaScript, HTML/CSS, and Python. I have also got myself into the cutting-edge technologies. My major interests are Data Analytics, Data Visulization and Programming. I am actively seeking opportunities to contribute and grow in the world of technology.
+Hi 👋! My name is Neron Parmar and I have done Computer Programming from Seneca Polytechnic. I have equipped myself with major programming laguages such as C, C++, MySQL, SQL, NoSQL, JavaScript, HTML/CSS, and Python. I have also got myself into the cutting-edge technologies. My major interests are Data Analytics, Data Visulization and Programming. I am actively seeking opportunities to contribute and grow in the world of technology.
 
 ## Education 🎓
 
-- **Diploma** in Computer Programming  
-  Seneca Polytechnic, May2022 - December2023 
+- **Diploma** in **Computer Programming**  
+  Seneca Polytechnic, May2022 - December2023
+
+## Experience 🌐
+
+### [Internship/Jobs]
+### SENEN GROUP, Remote
+
+- **Duration:** June 2023 - September 2023
+- **Position:** Data Analyst/ Data Associate
+
+### LXT AI INC., Toronto
+
+- **Duration:** October 2022 - June 2023
+- **Position:** Transcriptionist
+
+## Certifications 🏅
+
+- **C++ Developer** - w3Schools
+- **Statistics Foundations 1: The Basics** - LinkedIn Learning
+- **Design Thinking: Data Intelligence** - LinkedIn Learning
+- **Microsoft Power Desktop BI for Business Intelligence** - Udemy
+ 
 
 ###
 
@@ -43,7 +63,7 @@ Hi 👋! My name is Neron Parmar and I have done Computer Programming
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
 </div>
 
-###
+### Reach Me Out On:
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
