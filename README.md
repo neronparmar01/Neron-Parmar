@@ -80,8 +80,8 @@ Hi 👋! My name is Neron Parmar and I have done Computer Programming from Senec
  <a herf='www.linkedin.com/in/neronparmar'> 
    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
  </a>
-<a herf='https://www.linkedin.com/in/neronparmar/'>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<a href=''>
+  <img src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2023/08/1637655738-linkedin-101-hero2x.jpg?resize=738%2C320&ssl=1" height="35" alt="LinkedIn logo"  />
 </a>
 </div>
 
