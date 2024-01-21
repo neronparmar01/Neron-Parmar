@@ -67,14 +67,22 @@ Hi 👋! My name is Neron Parmar and I have done Computer Programming from Senec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+  <img src="https://lh6.googleusercontent.com/z8qmoLH5DeA0GD_waXFzCXH-xpPc5gkwhaaPbJyCwn52SaXPBwJFI0rxuyyQM6qP_ethx4dK7YQN3s9hB86DxlVblNdenzPTlSvyoZTG3_2gWd75Y3kEaReQ5S5h35W31xfawtjJ" height="30" alt="Power BI logo"  />
+  <img width="12"  />
+  <img src="https://mma.prnewswire.com/media/411941/TABLEAU_SOFTWARE_LOGOjpg_Logo.jpg?w=200" height="30" alt="Tableau logo"  />
+  <img width="12"  />
 </div>
 
 ### 
 ## Reach Me Out On:
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo", src="www.linkedin.com/in/neronparmar" />
+ <a herf='www.linkedin.com/in/neronparmar'> 
+   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+ </a>
+<a herf='www.linkedin.com/in/neronparmar'>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
 </div>
 
 ###
