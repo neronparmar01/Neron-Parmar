@@ -14,7 +14,7 @@ Hi 👋! My name is Neron Parmar and I have done Computer Programming from Senec
 ### SENEN GROUP, Remote
 
 - **Duration:** June 2023 - September 2023
-- **Position:** Data Analyst/ Data Associate
+- **Position:** Data Analyst / Data Associate
 
 ### LXT AI INC., Toronto
 
