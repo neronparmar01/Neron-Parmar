@@ -30,9 +30,10 @@ Hi 👋! My name is Neron Parmar and I have done Computer Programming from Senec
  
 
 ## Stats:
-![neronparmar01's Stats](https://github-readme-stats.vercel.app/api?username=neronparmar01&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=false)
-![neronparmar01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=neronparmar01&theme=chartreuse-dark&hide_border=false)
-![neronparmar01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neronparmar01&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
+![neronparmar01's Stats](https://github-readme-stats.vercel.app/api?username=neronparmar01&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+![neronparmar01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=neronparmar01&theme=vision-friendly-dark&hide_border=false)
+![neronparmar01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neronparmar01&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
+
 
 <img align="right" height="150" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif" />
 
