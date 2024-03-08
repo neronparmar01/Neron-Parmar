@@ -23,10 +23,12 @@ Hi 👋! My name is Neron Parmar and I have done Computer Programming from Senec
 
 ## Certifications 🏅
 
-- **C++ Developer** - w3Schools
-- **Statistics Foundations 1: The Basics** - LinkedIn Learning
-- **Design Thinking: Data Intelligence** - LinkedIn Learning
-- **Microsoft Power Desktop BI for Business Intelligence** - Udemy
+- **•	Foundations: Data, Data, Everywhere (Google Data Analytics Professional Certificate)**, Google - 2024
+- **Microsoft Power Desktop BI for Business Intelligence**, Udemy - 2024
+- **Design Thinking: Data Intelligence**, LinkedIn Learning - 2023
+- **Statistics Foundations 1: The Basics**, LinkedIn Learning - 2023
+- **C++ Developer**, w3Schools - 2022
+
  
 
 ## Stats:
