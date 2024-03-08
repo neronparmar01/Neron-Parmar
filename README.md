@@ -12,11 +12,11 @@ Hi 👋! My name is Neron Parmar and I have done Computer Programming from Senec
 
 ## Experience 🌐
 
-### [Internship/Jobs]
+
+<div align = "right">June 2023 - September 2023</div>
 ### SENEN GROUP, Remote
 
-- **Duration:** June 2023 - September 2023
-- **Position:** Data Analyst
+- **Duration:** - **Position:** Data Analyst
 
 ### LXT AI INC., Toronto
 
