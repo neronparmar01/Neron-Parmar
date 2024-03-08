@@ -5,8 +5,9 @@ Hi 👋! My name is Neron Parmar and I have done Computer Programming from Senec
 
 ## Education 🎓
 
-- **Diploma** in **Computer Programming**  
-  Seneca Polytechnic, May2022 - December2023
+- **Science** - **Mathematics**
+  Vision
+- **Diploma** - **Computer Programming** | Seneca Polytechnic College, Markham, Canada                                                                                                    **May2022 - December2023**
 
 ## Experience 🌐
 
